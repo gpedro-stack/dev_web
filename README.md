@@ -16,6 +16,6 @@ Olá! Meu nome é Gabriel e estou me graduando em Análise e Desenvolvimento de 
 
 ### Stopwatch
 
-**Código**: [Projeto Timer](https://github.com/gpedro-stack/dev_web/tree/main/Timer)
+**Código**: [Projeto Stopwatch](https://github.com/gpedro-stack/dev_web/tree/main/Stopwatch)
 
 **Descrição** Este projeto foi feito com Javascript, HTML e CSS. Neste projeto você pode interagir com um Stopwatch, iniciando, pausando ou resetando o Stopwatch.
