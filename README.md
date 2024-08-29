@@ -6,3 +6,16 @@ Olá! Meu nome é Gabriel e estou me graduando em Análise e Desenvolvimento de 
 
 ### **Habilidades**: Javascript, HTML, CSS e SQL.
 
+## Projetos
+
+### Pokemon API
+
+**Código**: [Projeto Pokemon API](https://github.com/gpedro-stack/dev_web/tree/main/Pokemon%20API)
+
+**Description** Este projeto foi feito com Javascript, HTML, CSS e com a API de [Pokemon](https://pokeapi.co). Neste projeto você pode escrever o Pokémon que deseja buscar e a API retornará a sprite/imagem frontal do Pokémon e seu número da Pokédex.
+
+### Stopwatch
+
+**Código**: [Projeto Timer](https://github.com/gpedro-stack/dev_web/tree/main/Timer)
+
+**Descrição** Este projeto foi feito com Javascript, HTML e CSS. Neste projeto você pode interagir com um Stopwatch, iniciando, pausando ou resetando o Stopwatch.
