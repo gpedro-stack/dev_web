@@ -26,6 +26,6 @@ Olá! Meu nome é Gabriel e estou me graduando em Análise e Desenvolvimento de 
 
 **Código**: [Projeto FilmesAPI](https://github.com/gpedro-stack/dev_web/tree/main/MovieAPI/movie-api-app)
 
-**Descrição**: Este projeto foi feito com Javascript, React, HTML e CSS. Neste projeto você pode buscar o nome de um filme e dar bookmark no filme caso deseja se lembrar do filme, e também tirar o filme do bookmark. Este projeto foi feito com a função de armazenamento sessionStorage do Javascript, o que significa que caso você feche a aba do navegador os seus bookmarks irão sumir.
+**Descrição**: Este projeto foi feito com Javascript, React, HTML e CSS. Neste projeto você pode fazer uma busca de filme e receber o poster, titulo e ano de lançamento. Você pode selecionar o bookmark no filme caso deseje ter um fácil acesso ao mesmo novamente e também tirar o filme do bookmark. Este projeto foi feito com a função de armazenamento sessionStorage do Javascript, o que significa que caso você feche a aba do navegador os seus bookmarks irão sumir.
 
 Para fazer o projeto funcionar você deve instalar o pacote [NPM](https://nodejs.org/en/download/package-manager). Após baixar o pacote NPM, vá para a pasta raiz no projeto onde está localizado o arquivo "package.json" e escreva no terminal: "npm install". Para fazer o servidor rodar e entrar no site basta escrever: "npm run dev" e depois seguir as instruções de entrar em localhost.
