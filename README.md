@@ -4,7 +4,7 @@
 
 Olá! Meu nome é Gabriel e estou me graduando em Análise e Desenvolvimento de Sistemas. Esse repositório é onde ficam meus projetos de portfolio feitos com Javascript, HTML e CSS.
 
-### **Habilidades**: Javascript, HTML, CSS e SQL.
+### **Habilidades**: Javascript, HTML, CSS e React.
 
 #### **CV**: [Meu Currículo](https://github.com/gpedro-stack/dev_web/blob/main/Gabriel%20Pedro%2C%20CV.pdf)
 
